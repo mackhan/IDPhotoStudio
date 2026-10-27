@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mackhan.github.io/IDPhotoStudio/sitemap.xml
